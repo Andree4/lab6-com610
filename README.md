@@ -1,1 +1,5 @@
-# lab6-com610
+## Documentación del Laboratorio
+
+Puedes encontrar el informe completo con capturas de pantalla y evidencias en el siguiente enlace:
+
+- [Ver informe del laboratorio](./INFORME/lab6.1_informe_arancibia_aguilar_daniel_andree.md)
